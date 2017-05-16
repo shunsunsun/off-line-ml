@@ -1,3 +1,4 @@
+import init_import
 def read_data():  
 		#col_names = [ ,'label']
 		#engine= create_engine('oracle://uibs:uibs@58.251.157.179:1521/orcl',echo = True)
